@@ -1,0 +1,974 @@
+[
+    {
+      "commonName": "Snake Plant",
+      "scientificName": "Sansevieria trifasciata",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Monstera",
+      "scientificName": "Monstera deliciosa",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Fiddle Leaf Fig",
+      "scientificName": "Ficus lyrata",
+      "type": "Tropical Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Peace Lily",
+      "scientificName": "Spathiphyllum",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Pothos",
+      "scientificName": "Epipremnum aureum",
+      "type": "Vine",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "ZZ Plant",
+      "scientificName": "Zamioculcas zamiifolia",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Spider Plant",
+      "scientificName": "Chlorophytum comosum",
+      "type": "Perennial",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Aloe Vera",
+      "scientificName": "Aloe barbadensis miller",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Rubber Plant",
+      "scientificName": "Ficus elastica",
+      "type": "Tropical Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Boston Fern",
+      "scientificName": "Nephrolepis exaltata",
+      "type": "Fern",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Philodendron",
+      "scientificName": "Philodendron spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Jade Plant",
+      "scientificName": "Crassula ovata",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Chinese Money Plant",
+      "scientificName": "Pilea peperomioides",
+      "type": "Perennial",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Calathea",
+      "scientificName": "Calathea spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "English Ivy",
+      "scientificName": "Hedera helix",
+      "type": "Vine",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "African Violet",
+      "scientificName": "Saintpaulia",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Orchid",
+      "scientificName": "Orchidaceae",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Areca Palm",
+      "scientificName": "Dypsis lutescens",
+      "type": "Palm",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Bird of Paradise",
+      "scientificName": "Strelitzia nicolai",
+      "type": "Tropical",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "String of Pearls",
+      "scientificName": "Senecio rowleyanus",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Lavender",
+      "scientificName": "Lavandula",
+      "type": "Herb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Rosemary",
+      "scientificName": "Salvia rosmarinus",
+      "type": "Herb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Basil",
+      "scientificName": "Ocimum basilicum",
+      "type": "Herb",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Mint",
+      "scientificName": "Mentha",
+      "type": "Herb",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Tomato Plant",
+      "scientificName": "Solanum lycopersicum",
+      "type": "Vegetable",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Rose",
+      "scientificName": "Rosa",
+      "type": "Flowering Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Hydrangea",
+      "scientificName": "Hydrangea macrophylla",
+      "type": "Flowering Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Tulip",
+      "scientificName": "Tulipa",
+      "type": "Bulb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Daffodil",
+      "scientificName": "Narcissus",
+      "type": "Bulb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Sunflower",
+      "scientificName": "Helianthus annuus",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Cactus",
+      "scientificName": "Cactaceae",
+      "type": "Succulent",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Bamboo",
+      "scientificName": "Bambusoideae",
+      "type": "Grass",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Bonsai Tree",
+      "scientificName": "Various species",
+      "type": "Tree",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Ficus",
+      "scientificName": "Ficus benjamina",
+      "type": "Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Croton",
+      "scientificName": "Codiaeum variegatum",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Anthurium",
+      "scientificName": "Anthurium andraeanum",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Peperomia",
+      "scientificName": "Peperomia spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Dracaena",
+      "scientificName": "Dracaena spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Begonia",
+      "scientificName": "Begonia spp.",
+      "type": "Flowering Plant",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Hoya",
+      "scientificName": "Hoya carnosa",
+      "type": "Vine",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Alocasia",
+      "scientificName": "Alocasia spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Maranta",
+      "scientificName": "Maranta leuconeura",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Tradescantia",
+      "scientificName": "Tradescantia zebrina",
+      "type": "Trailing Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Dieffenbachia",
+      "scientificName": "Dieffenbachia spp.",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Aglaonema",
+      "scientificName": "Aglaonema commutatum",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Schefflera",
+      "scientificName": "Schefflera arboricola",
+      "type": "Tropical Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Yucca",
+      "scientificName": "Yucca elephantipes",
+      "type": "Succulent",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Asparagus Fern",
+      "scientificName": "Asparagus setaceus",
+      "type": "Fern",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Haworthia",
+      "scientificName": "Haworthia spp.",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Echeveria",
+      "scientificName": "Echeveria spp.",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Kalanchoe",
+      "scientificName": "Kalanchoe blossfeldiana",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Ponytail Palm",
+      "scientificName": "Beaucarnea recurvata",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Majesty Palm",
+      "scientificName": "Ravenea rivularis",
+      "type": "Palm",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Parlor Palm",
+      "scientificName": "Chamaedorea elegans",
+      "type": "Palm",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Kentia Palm",
+      "scientificName": "Howea forsteriana",
+      "type": "Palm",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Staghorn Fern",
+      "scientificName": "Platycerium bifurcatum",
+      "type": "Fern",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Bird's Nest Fern",
+      "scientificName": "Asplenium nidus",
+      "type": "Fern",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Maidenhair Fern",
+      "scientificName": "Adiantum",
+      "type": "Fern",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "String of Hearts",
+      "scientificName": "Ceropegia woodii",
+      "type": "Succulent Vine",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "String of Turtles",
+      "scientificName": "Peperomia prostrata",
+      "type": "Trailing Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Polka Dot Plant",
+      "scientificName": "Hypoestes phyllostachya",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Prayer Plant",
+      "scientificName": "Maranta leuconeura",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Nerve Plant",
+      "scientificName": "Fittonia albivenis",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Air Plant",
+      "scientificName": "Tillandsia",
+      "type": "Epiphyte",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Wandering Jew",
+      "scientificName": "Tradescantia zebrina",
+      "type": "Trailing Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Inch Plant",
+      "scientificName": "Tradescantia zebrina",
+      "type": "Trailing Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Swiss Cheese Plant",
+      "scientificName": "Monstera deliciosa",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Umbrella Plant",
+      "scientificName": "Schefflera arboricola",
+      "type": "Tropical Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Cast Iron Plant",
+      "scientificName": "Aspidistra elatior",
+      "type": "Perennial",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Lucky Bamboo",
+      "scientificName": "Dracaena sanderiana",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Money Tree",
+      "scientificName": "Pachira aquatica",
+      "type": "Tropical Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Weeping Fig",
+      "scientificName": "Ficus benjamina",
+      "type": "Tree",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Zebra Plant",
+      "scientificName": "Aphelandra squarrosa",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Rattlesnake Plant",
+      "scientificName": "Calathea lancifolia",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Peacock Plant",
+      "scientificName": "Calathea makoyana",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Zebra Haworthia",
+      "scientificName": "Haworthia fasciata",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Burro's Tail",
+      "scientificName": "Sedum morganianum",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Christmas Cactus",
+      "scientificName": "Schlumbergera",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Easter Cactus",
+      "scientificName": "Hatiora gaertneri",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Thanksgiving Cactus",
+      "scientificName": "Schlumbergera truncata",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Crown of Thorns",
+      "scientificName": "Euphorbia milii",
+      "type": "Succulent",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Lipstick Plant",
+      "scientificName": "Aeschynanthus radicans",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Flamingo Flower",
+      "scientificName": "Anthurium andraeanum",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Moth Orchid",
+      "scientificName": "Phalaenopsis",
+      "type": "Orchid",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Bromeliad",
+      "scientificName": "Bromeliaceae",
+      "type": "Tropical",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Cyclamen",
+      "scientificName": "Cyclamen persicum",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Poinsettia",
+      "scientificName": "Euphorbia pulcherrima",
+      "type": "Flowering Plant",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Amaryllis",
+      "scientificName": "Hippeastrum",
+      "type": "Bulb",
+      "category": "Indoor"
+    },
+    {
+      "commonName": "Gardenia",
+      "scientificName": "Gardenia jasminoides",
+      "type": "Flowering Shrub",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Jasmine",
+      "scientificName": "Jasminum",
+      "type": "Vine",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Hibiscus",
+      "scientificName": "Hibiscus rosa-sinensis",
+      "type": "Flowering Shrub",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Geranium",
+      "scientificName": "Pelargonium",
+      "type": "Flowering Plant",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Azalea",
+      "scientificName": "Rhododendron",
+      "type": "Flowering Shrub",
+      "category": "Indoor/Outdoor"
+    },
+    {
+      "commonName": "Camellia",
+      "scientificName": "Camellia japonica",
+      "type": "Flowering Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Dahlia",
+      "scientificName": "Dahlia",
+      "type": "Flowering Plant",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Peony",
+      "scientificName": "Paeonia",
+      "type": "Flowering Plant",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Lily",
+      "scientificName": "Lilium",
+      "type": "Bulb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Iris",
+      "scientificName": "Iris",
+      "type": "Bulb",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Pansy",
+      "scientificName": "Viola tricolor var. hortensis",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Marigold",
+      "scientificName": "Tagetes",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Zinnia",
+      "scientificName": "Zinnia elegans",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Petunia",
+      "scientificName": "Petunia",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Impatiens",
+      "scientificName": "Impatiens walleriana",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Begonia",
+      "scientificName": "Begonia semperflorens",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Coleus",
+      "scientificName": "Plectranthus scutellarioides",
+      "type": "Annual",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Hosta",
+      "scientificName": "Hosta",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Sedum",
+      "scientificName": "Sedum",
+      "type": "Succulent",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Coneflower",
+      "scientificName": "Echinacea",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Black-Eyed Susan",
+      "scientificName": "Rudbeckia hirta",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Daylily",
+      "scientificName": "Hemerocallis",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Astilbe",
+      "scientificName": "Astilbe",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Bleeding Heart",
+      "scientificName": "Dicentra spectabilis",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Coral Bells",
+      "scientificName": "Heuchera",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Foxglove",
+      "scientificName": "Digitalis",
+      "type": "Biennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Delphinium",
+      "scientificName": "Delphinium",
+      "type": "Perennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Hollyhock",
+      "scientificName": "Alcea rosea",
+      "type": "Biennial",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Clematis",
+      "scientificName": "Clematis",
+      "type": "Vine",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Wisteria",
+      "scientificName": "Wisteria",
+      "type": "Vine",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Honeysuckle",
+      "scientificName": "Lonicera",
+      "type": "Vine",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Morning Glory",
+      "scientificName": "Ipomoea",
+      "type": "Annual Vine",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Trumpet Vine",
+      "scientificName": "Campsis radicans",
+      "type": "Vine",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Boxwood",
+      "scientificName": "Buxus",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Juniper",
+      "scientificName": "Juniperus",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Arborvitae",
+      "scientificName": "Thuja",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Yew",
+      "scientificName": "Taxus",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Holly",
+      "scientificName": "Ilex",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Rhododendron",
+      "scientificName": "Rhododendron",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Forsythia",
+      "scientificName": "Forsythia",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Lilac",
+      "scientificName": "Syringa",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Spirea",
+      "scientificName": "Spiraea",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Weigela",
+      "scientificName": "Weigela",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Barberry",
+      "scientificName": "Berberis",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Butterfly Bush",
+      "scientificName": "Buddleja davidii",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Viburnum",
+      "scientificName": "Viburnum",
+      "type": "Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Dogwood",
+      "scientificName": "Cornus",
+      "type": "Tree/Shrub",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Magnolia",
+      "scientificName": "Magnolia",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Japanese Maple",
+      "scientificName": "Acer palmatum",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Redbud",
+      "scientificName": "Cercis",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Crape Myrtle",
+      "scientificName": "Lagerstroemia",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Serviceberry",
+      "scientificName": "Amelanchier",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Crabapple",
+      "scientificName": "Malus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Oak",
+      "scientificName": "Quercus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Maple",
+      "scientificName": "Acer",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Pine",
+      "scientificName": "Pinus",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Spruce",
+      "scientificName": "Picea",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Fir",
+      "scientificName": "Abies",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Cedar",
+      "scientificName": "Cedrus",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Hemlock",
+      "scientificName": "Tsuga",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Cypress",
+      "scientificName": "Cupressus",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Larch",
+      "scientificName": "Larix",
+      "type": "Conifer",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Birch",
+      "scientificName": "Betula",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Beech",
+      "scientificName": "Fagus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Elm",
+      "scientificName": "Ulmus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Ash",
+      "scientificName": "Fraxinus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Willow",
+      "scientificName": "Salix",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Poplar",
+      "scientificName": "Populus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Sycamore",
+      "scientificName": "Platanus",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Ginkgo",
+      "scientificName": "G  \"Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Ginkgo",
+      "scientificName": "Ginkgo biloba",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Linden",
+      "scientificName": "Tilia",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Sweetgum",
+      "scientificName": "Liquidambar",
+      "type": "Tree",
+      "category": "Outdoor"
+    },
+    {
+      "commonName": "Tulip Tree",
+      "scientificName": "Liriodendron tulipifera",
+      "type": "Tree",
+      "category": "Outdoor"
+    }
+  ]
+  
